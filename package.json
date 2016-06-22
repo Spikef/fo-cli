@@ -1,7 +1,7 @@
 {
   "name": "fo-cli",
-  "description": "Folk command line tools for better development!",
-  "version": "1.0.1",
+  "description": "Folk command line tools for developers!",
+  "version": "1.0.2",
   "repository": {
     "type": "git",
     "url": "git@github.com:Spikef/fo-cli.git"
@@ -29,6 +29,5 @@
   "engine-strict": true,
   "engines": {
     "node": ">= 4.0"
-  },
-  "license": "MIT"
+  }
 }

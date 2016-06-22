@@ -1,30 +1,15 @@
-# folk-cli
+# fo-cli
 
-Folk command line tools for better development!
+Folk command line tools for developers!
 
 ## Install
 
 ```bash
-npm install -g folk-cli
+$ npm install -g fo-cli
 ```
 
-## init
-
-Set your website location, and theme/plugin author information.
+## Usage
 
 ```bash
-cd [your website location]
-fo init
+$ fo
 ```
-
-## plugin
-
-Create a new plugin under your site.
-
-## theme
-
-Create a new theme under your site.
-
-## pack
-
-Pack a theme or plugin to an installation package.
