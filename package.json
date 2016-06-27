@@ -1,7 +1,7 @@
 {
   "name": "fo-cli",
   "description": "Folk command line tools for developers!",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "repository": {
     "type": "git",
     "url": "git@github.com:Spikef/fo-cli.git"
@@ -24,7 +24,9 @@
     "semver": "^5.1.0",
     "uglify-js": "^2.6.2"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "cmdu": "^1.0.3"
+  },
   "scripts": {},
   "engine-strict": true,
   "engines": {
